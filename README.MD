@@ -26,7 +26,9 @@ Este proyecto fue inspirado y guiado por el excelente tutorial de freeCodeCamp e
 
 Agradecimientos a freeCodeCamp.org por el contenido educativo de calidad.
 
+Repositorio Github tutorial: https://github.com/burakorkmez/mern-crash-course
+
 ---
 
 ## 👨‍🎓 Propósito Académico
-Este proyecto fue desarrollado como parte de una asignatura universitaria con el objetivo de aprender sobre el desarrollo web moderno utilizando una arquitectura full-stack real. No está destinado para uso en producción.
+Este proyecto fue desarrollado con el objetivo de aprender sobre el desarrollo web moderno utilizando una arquitectura full-stack real. No está destinado para uso en producción y no reclamo ser autor del código.
