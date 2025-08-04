@@ -1,1 +1,12 @@
+# node_modules en el backend
+node_modules/
+
+# node_modules en el frontend
+frontend/node_modules/
+
+# Archivos de producción
+dist/
+frontend/dist/
+
+# Archivos de entorno
 .env
