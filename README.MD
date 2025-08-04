@@ -11,6 +11,14 @@ Una aplicación web **full-stack** construida con el stack **MERN** (MongoDB, Ex
 - ⚙️ **Node.js**: Entorno de ejecución del servidor.
 - 🌐 **React**: Librería frontend para construir interfaces dinámicas.
 - 🔒 **dotenv**: Para manejo seguro de variables de entorno.
+- ☁️ **Render**: Plataforma utilizada para desplegar la aplicación en la nube.
+
+---
+
+## 🔗 Aplicación en Producción
+
+🌍 Puedes probar la aplicación desplegada en Render aquí:  
+👉 **[https://mern-1-di69.onrender.com/](https://mern-1-di69.onrender.com/)**
 
 ---
 
